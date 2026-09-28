@@ -1,0 +1,1 @@
+function resetOffset(){var ss=SpreadsheetApp.openById("ID_EXEMPLO");var sheet=ss.getSheetByName("Entregas_Acessorias");Logger.log("LR:"+sheet.getLastRow());}
