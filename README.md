@@ -1,6 +1,6 @@
-# Appsheet Tabelao
+# Demonstração — Preparação de abas de faturamento e entregas para AppSheet
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de preparação de abas de faturamento e entregas para AppSheet — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 O AppSheet do Tabelão precisava de abas de faturamento e entregas preparadas a partir da planilha principal.
